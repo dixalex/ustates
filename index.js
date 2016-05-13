@@ -51,7 +51,8 @@ var indexes = []
     "WA":{"index":47,"name":"Washington","code":"WA"},
     "WV":{"index":48,"name":"West Virginia","code":"WV"},
     "WI":{"index":49,"name":"Wisconsin","code":"WI"},
-    "WY":{"index":50,"name":"Wyoming","code":"WY"}
+    "WY":{"index":50,"name":"Wyoming","code":"WY"},
+    "VI":{"index":51,"name":"United States Virgin Islands","code":"VI"}
   };
 
 Object.keys(states).forEach(function each(code) {
